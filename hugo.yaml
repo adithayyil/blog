@@ -1,0 +1,19 @@
+baseURL: https://blog.adithayyil.me/
+languageCode: en-us
+title: Adithya Thayyil
+theme: PaperMod
+
+params:
+  homeInfoParams:
+    Title: Hello 👋🏽
+    Content: This is my blog page :p
+
+  socialIcons: # optional
+    - name: "Email"
+      url: "mail@adithayyil.me"
+    - name: "Instagram"
+      url: "https://www.instagram.com/a333di"
+    - name: "Linkedin"
+      url: "https://www.linkedin.com/in/adithayyil/"
+    - name: "Github"
+      url: "https://github.com/adithayyil"
