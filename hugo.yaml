@@ -1,19 +1,49 @@
 baseURL: https://blog.adithayyil.me
 languageCode: en-us
-title: Adithya Thayyil
+title: adi
 theme: PaperMod
 
-params:
-  homeInfoParams:
-    Title: Hello 👋🏽
-    Content: This is my blog page :p
+menu:
+  main:
+    - identifier: search
+      name: search
+      url: /search/
+      weight: 10
+    - identifier: categories
+      name: categories
+      url: /categories/
+      weight: 20
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 30
+    - identifier: main page
+      name: adithayyil.me
+      url: https://adithayyil.me
+      weight: 40
 
-  socialIcons: # optional
-    - name: "Email"
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  disableThemeToggle: true
+
+  homeInfoParams:
+    Title: hello 👋🏽
+    Content: this is my blog page :p
+
+  assets:
+    favicon: "https://adi-visual.nyc3.cdn.digitaloceanspaces.com/images/arch-og.png"
+
+  socialIcons:
+    - name: "email"
       url: "mail@adithayyil.me"
-    - name: "Instagram"
+    - name: "instagram"
       url: "https://www.instagram.com/a333di"
-    - name: "Linkedin"
+    - name: "linkedin"
       url: "https://www.linkedin.com/in/adithayyil/"
-    - name: "Github"
+    - name: "github"
       url: "https://github.com/adithayyil"

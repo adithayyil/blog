@@ -1,16 +1,15 @@
 ---
-title: Math 137 Notes
-fileName: Math 137 Notes
+title: MATH 137 Notes
+fileName: MATH 137 Notes
 tags:
   - math
 categories:
   - notes
 date: 2024-01-8
 lastMod: 2024-01-10
+summary: My lecture notes from MATH 137
 math: true
 ShowToc: true
-Params:
-  ShowReadingTime: true
 ---
 
 # Lecture 1
