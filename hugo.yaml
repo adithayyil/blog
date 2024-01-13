@@ -40,7 +40,7 @@ params:
 
   socialIcons:
     - name: "email"
-      url: "mail@adithayyil.me"
+      url: "mailto:mail@adithayyil.me"
     - name: "instagram"
       url: "https://www.instagram.com/a333di"
     - name: "linkedin"
