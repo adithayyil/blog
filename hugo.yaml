@@ -32,8 +32,11 @@ params:
   disableThemeToggle: true
 
   homeInfoParams:
-    Title: hello 👋🏽
-    Content: this is my blog page :p
+    Title: "adi's blog"
+    Content: i write about stuff
+
+  label:
+    icon: "https://adi-visual.nyc3.cdn.digitaloceanspaces.com/images/arch-og.png"
 
   assets:
     favicon: "https://adi-visual.nyc3.cdn.digitaloceanspaces.com/images/favicons/favicon.ico"
