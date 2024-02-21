@@ -36,14 +36,19 @@ params:
     Content: this is my blog page :p
 
   assets:
-    favicon: "https://adi-visual.nyc3.cdn.digitaloceanspaces.com/images/arch-og.png"
+    favicon: "https://adi-visual.nyc3.cdn.digitaloceanspaces.com/images/favicons/favicon.ico"
+    favicon16x16: "https://adi-visual.nyc3.cdn.digitaloceanspaces.com/images/favicons/favicon-16x16.png"
+    favicon32x32: "https://adi-visual.nyc3.cdn.digitaloceanspaces.com/images/favicons/favicon-32x32.png"
+    apple_touch_icon: "https://adi-visual.nyc3.cdn.digitaloceanspaces.com/images/favicons/apple-touch-icon.png"
 
   socialIcons:
     - name: "email"
       url: "mailto:mail@adithayyil.me"
-    - name: "instagram"
-      url: "https://www.instagram.com/a333di"
     - name: "linkedin"
       url: "https://www.linkedin.com/in/adithayyil/"
     - name: "github"
       url: "https://github.com/adithayyil"
+    - name: "instagram"
+      url: "https://www.instagram.com/a333di"
+    - name: "discord"
+      url: "https://discord.com/users/645754072439455756"

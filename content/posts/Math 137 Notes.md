@@ -9,7 +9,7 @@ date: 2024-01-8
 lastMod: 2024-01-10
 summary: My lecture notes from MATH 137
 math: true
-ShowToc: true
+draft: true
 ---
 
 # Lecture 1
