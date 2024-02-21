@@ -1,6 +1,7 @@
 ---
 title: "GraphQL: A Paradigm Shift in API Development"
 fileName: "GraphQL: A Paradigm Shift in API Development"
+author: Adithya Thayyil
 cover:
   image: "https://adi-visual.nyc3.cdn.digitaloceanspaces.com/images/blog/GraphQL/GQL.png"
   alt: "GraphQL Flow"
