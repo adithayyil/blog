@@ -29,6 +29,9 @@ outputs:
     - JSON
 
 params:
+  title: adi's blog
+  description: i write about stuff
+
   disableThemeToggle: true
 
   homeInfoParams:
