@@ -1,6 +1,6 @@
 baseURL: https://blog.adithayyil.me
 languageCode: en-us
-title: adi
+title: adi's blog
 theme: PaperMod
 
 menu:
@@ -29,7 +29,6 @@ outputs:
     - JSON
 
 params:
-  title: adi's blog
   description: i write about stuff
 
   disableThemeToggle: true
